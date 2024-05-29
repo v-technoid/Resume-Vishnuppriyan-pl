@@ -23,5 +23,5 @@ Create an interactive and visually appealing online resume using HTML, CSS, and 
 This project not only highlights technical skills in front-end development but also demonstrates an ability to create a polished and functional web application that can effectively present personal and professional information.
 ## Demo
 
-https://resume.com
+https://v-technoid.github.io/Resume-Vishnuppriyan-pl/
 
